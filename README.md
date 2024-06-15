@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shivangi</h1>
-<h3 align="center">A passionate AI Engineer,Data Scientist and Business Analyst</h3>
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+
+### Shivangi Goyal 
+- 🔭 I’m a Pre Final Year Student from Bennett University.
+- 💬 Let's talk about Language Technologies, Solving problems and participating in new experiences.
+- 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/shivangi-goyal-46817a222/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivicode1108&label=Profile%20views&color=0e75b6&style=flat" alt="shivicode1108" /> </p>
 
