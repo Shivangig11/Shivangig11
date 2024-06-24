@@ -29,6 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shivangig11&show_icons=true&locale=en" alt="Shivangig11" /></p>
 <img src="https://myreadme.vercel.app/api/embed/Shivangig11?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivangig11&" alt="Shivangig11" /></p>
