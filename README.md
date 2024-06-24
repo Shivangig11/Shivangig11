@@ -31,5 +31,7 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivicode1108&show_icons=true&locale=en" alt="shivicode1108" /></p>
+<img src="https://myreadme.vercel.app/api/embed/manya706?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivicode1108&" alt="shivicode1108" /></p>
