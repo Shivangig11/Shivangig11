@@ -7,7 +7,7 @@
 
 
 ### Shivangi Goyal 
-- 🔭 I’m a Pre Final Year Student from Bennett University.
+- 🔭 I’m a Final Year Student from Bennett University.
 - 💬 Let's talk about Language Technologies, Solving problems and participating in new experiences.
 - 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/shivangi-goyal-46817a222/)
 
