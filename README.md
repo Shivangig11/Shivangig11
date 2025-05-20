@@ -4,7 +4,7 @@
 </div>
 <p align="center">
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F749DC&random=false&width=535&height=73&lines=Hi!+I'm+Shivangi+Goyal alt="Typing SVG" /></a> -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=F63024&background=6883FF00&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+Shivangi+Goyal;Aspiring+Software+Engineer;%26+a+ML+enthusiast+" alt="Typing SVG" /></a><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70"> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=F63024&background=6883FF00&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+Shivangi+Goyal;Aspiring+Aspiri+AI+Engineert+;Data Scientist" alt="Typing SVG" /></a><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70"> 
 
 ### Shivangi Goyal 
 - 🔭 I’m a Pre Final Year Student from Bennett University.
